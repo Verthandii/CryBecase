@@ -6,7 +6,7 @@ Golang Java JS
 
 ## 简单算法
 
-BFS DFS DP 贪心 前缀和 链表 快速排序 堆 二分查找 回溯 ...
+BFS DFS DP 贪心 前缀和 链表 快速排序 堆 二分查找 回溯 Trie AC自动机...
 
 ## 框架
 
